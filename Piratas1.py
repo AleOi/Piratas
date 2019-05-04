@@ -14,4 +14,4 @@ import numpy as np
 
 '''
 
-print("Recrutamento de novos piratas")
+print("Novos Piratas")
