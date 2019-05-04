@@ -1,0 +1,4 @@
+Esse primeiro arquivo tem como intuito 
+guardar algumas anotações da aula 
+no curso de Piratas.
+
