@@ -1,4 +1,2 @@
-Esse primeiro arquivo tem como intuito 
-guardar algumas anotações da aula 
-no curso de Piratas.
-
+Esse txt tem como finalidade anotar 
+coisas interessantes da aula do Piratas
